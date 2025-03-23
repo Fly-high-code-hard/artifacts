@@ -102,4 +102,4 @@
 
 ## Демо-стенд
 
-- ссылка на видео (я его сделаю, как вы закончите с сайтом)
+https://drive.google.com/file/d/13kOmdRRCVa7QQcR_3Q8iWu1ERmA631H1/view?usp=sharing
